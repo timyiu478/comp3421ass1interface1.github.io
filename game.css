@@ -1,0 +1,18 @@
+button{
+    transition: transform .3s;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+#multiple_choice,#fill_in_the_blank,#fill_in_the_table{
+    display: none;
+}
+
+
+
+.modal-body hr{
+  width: 100%;
+  display: inline-block;
+}
